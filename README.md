@@ -1,6 +1,6 @@
-#Modelo Preditivo Imóveis
+# Modelo Preditivo Imóveis
 
-#Descrição
+## Descrição
 
 Este projeto utiliza técnicas de aprendizado de máquina para prever o valor total de imóveis. As previsões são baseadas em variáveis como:
 
@@ -18,11 +18,11 @@ Média do bairro
 
 Renda per capita
 
-#Objetivo
+## Objetivo
 
 Auxiliar compradores, vendedores e imobiliárias a estimar o valor justo de um imóvel, utilizando dados históricos e análise preditiva.
 
-#Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Python
 
